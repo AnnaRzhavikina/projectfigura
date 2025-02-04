@@ -14,5 +14,5 @@
     <Canvas fx:id="my_canvas" height="200.0" width="200.0" />
 
     <Label fx:id="welcomeText" />
-    <Button fx:id="generate_button" onAction="#onHelloButtonClick" prefHeight="26.0" prefWidth="119.0" text="Нарисовать" />
+    <Button fx:id="generate_button" prefHeight="26.0" prefWidth="119.0" text="Нарисовать" />
 </VBox>
